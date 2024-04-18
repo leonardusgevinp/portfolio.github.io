@@ -454,7 +454,7 @@ section .container {
   position:absolute;
   content:'';
   width:4px;
-  height:calc(100% + 50px);
+  height:calc(27% + 50px);
   background: rgb(138,145,150);
   background: -moz-linear-gradient(left, rgba(138,145,150,1) 0%, rgba(122,130,136,1) 60%, rgba(98,105,109,1) 100%);
   background: -webkit-linear-gradient(left, rgba(138,145,150,1) 0%,rgba(122,130,136,1) 60%,rgba(98,105,109,1) 100%);
